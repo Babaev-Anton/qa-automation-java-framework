@@ -1,0 +1,7 @@
+operation,a,b,expected
+add,2,3,5
+add,10,15,25
+subtract,10,3,7
+multiply,4,5,20
+divide,10,2,5.0
+divide,5,0,0.0
